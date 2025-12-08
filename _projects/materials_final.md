@@ -7,7 +7,7 @@ image: assets/images/materials-final/cadRender.jpg
 tags: [materials, fem, analysis]
 ---
 
-### Summary
+### Summaryof design
 The goal of this project was to design a non-ratcheting torque wrench capable of meeting several design and performance specifications. I used a MATLAB script to perform analytical calculations and run through possible designs. I then created a CAD model in SOLIDWORKS and created a Finite Element Model (FEM) using Ansys Static Structural. I conducted analysis and then compared it to the results of the analytical calculations.
 
 ---

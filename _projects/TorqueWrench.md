@@ -10,8 +10,7 @@ For my final project in MAE 3270, I designed an optimized torque wrench.
 
 Here is the CAD model of my Wrench Design: 
 
-<img src="{{ site.baseurl }}/assets/images/TWCAD.png" alt="Probe Strain Values" style="width:100%; display:block; margin:auto;">
-
+<img src="{{ '/assets/images/TWCAD.png' | relative_url }}" alt="Torque Wrench CAD" style="width:100%; display:block; margin:auto;">
 
 Material Selection
 

@@ -6,7 +6,7 @@ title: Alex Shuey
 ## About Me
 
 
-<img src="{{ site.baseurl }}/assets/images/profile-pic.jpg" alt="Probe Strain Values" style="width:100%; display:block; margin:auto;">
+<img src="{{ site.baseurl }}/assets/images/profile-pic.jpg" alt="Profile Picture" style="width:100%; display:block; margin:auto;">
 
  
 My name is {{ site.name }}, a junior studying Mechanical Engineering at Cornell University. I’ve loved aviation and aerospace since my dad took me flying for the first time at age ten, and I’ve always been fascinated by how engineering can push the boundaries of what’s possible. My dream is to help make the aerospace industry a more susatianable place!

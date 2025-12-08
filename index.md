@@ -6,7 +6,7 @@ title: Alex Shuey
 ## About Me
 
 
-![Profile Picture]({{ "assets/images/profile-pic.jpg" | relative_url }}){: class="profile-image"}
+![Profile Picture]({{ "assets/images/profile-pic.JPG" | relative_url }}){: class="profile-image"}
 
  
 My name is {{ site.name }}, and I am I’m Alex, a junior studying Mechanical Engineering at Cornell University. I’ve loved aviation and aerospace since my dad took me flying for the first time at age ten, and I’ve always been fascinated by how engineering can push the boundaries of what’s possible. My dream is to help make the aerospace industry a more susatianable place!
@@ -16,4 +16,5 @@ Beyond engineering, I’m pursuing my private pilot’s license and work as a ca
 
 
 
-Take a look at <a href="{{ "/projects/" | relative_url }}">my projects</a> and <a href="{{ "/cv/" | relative_url }}">CV</a>.
+Take a look at <a href="projects/">my projects</a> and <a href="cv/cv.pdf">CV</a>.
+

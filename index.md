@@ -16,5 +16,6 @@ Beyond engineering, I’m pursuing my private pilot’s license and work as a ca
 
 
 
-Take a look at <a href="projects/">my projects</a> and <a href="cv/cv.pdf">CV</a>.
+Take a look at <a href="projects/TorqueWrench.md">my projects</a> and <a href="cv.pdf">CV</a>.
+
 

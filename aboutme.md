@@ -5,12 +5,12 @@ permalink: /
 ---
 
 <div class="image-wrapper">
-  <img src="{{ site.baseurl }}/assets/images/Headshot.jpg" alt="Ishan Roy" class="profile-image">
+  <img src="{{ site.baseurl }}/assets/images/DBFheadshot.JPG" alt="Alex Shuey" class="profile-image">
 </div>
 
-Hi, my name is Ishan!
+Hi, my name is Alex!
 
-
+yay!
 
 <div style="height:40px;"></div>
 

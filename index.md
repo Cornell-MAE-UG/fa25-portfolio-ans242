@@ -16,7 +16,7 @@ Beyond engineering, I’m pursuing my private pilot’s license and work as a ca
 
 
 
-Take a look at [my Torque Wrench project](projects/TorqueWrench.html) and [my CV](cv.pdf).
+Take a look at [my Torque Wrench project](projects/TorqueWrench/) and [my CV](cv.pdf).
 
 
 

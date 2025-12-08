@@ -11,8 +11,8 @@ locale                   : "en-US"
 title                    : Alex Shuey
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : Your Name
-description              : Your Name - Projects and CV 
+name                     : Alex Shuey
+description              : Alex Shuey - Projects and CV 
 baseurl                  : "" # Set this to your repo name 
 
 # Theme and Style

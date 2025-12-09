@@ -14,7 +14,6 @@ permalink: /cv/
   </div>
   <div class = "role">Sibley School of Mechanical and Aerospace Engineering<br></div>
   Bachelor of Science in Mechanical Engineering with a Minor in Aerospace Engineering.<br>
-  GPA: 3.52/4.0.
 </div>
 
 ## EXPERIENCE

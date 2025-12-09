@@ -61,7 +61,7 @@ Source: Aluminum Association / MIL-HDBK-5 / Ansys Granta
 
 
 ### 7) Max Normal Stress
-- **Value:** **1.457 x 10^5 psi**
+- **Value:** **59230 psi**
 
 <div class="image-block-full">
   <img src="{{ site.baseurl }}/assets/images/materials-final/StressTW.png"
@@ -71,7 +71,7 @@ Source: Aluminum Association / MIL-HDBK-5 / Ansys Granta
 ---
 
 ### 8) Deflection at Load Point
-- **Value: 0.8275 in**
+- **Value: 0.70935 in**
 
 <div class="image-block-full">
   <img src="{{ site.baseurl }}/assets/images/materials-final/DeformationTW.png"

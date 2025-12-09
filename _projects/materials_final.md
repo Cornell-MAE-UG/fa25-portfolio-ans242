@@ -96,17 +96,21 @@ Source: Aluminum Association / MIL-HDBK-5 / Ansys Granta
 ---
 
 ### 10) Torque-Wrench Sensitivity
-- Measured strain from the strain gauge in the model **ε = 1,397.9 µε**
-- Gauge factor: **K = 2**
-- Bridge setup used:  **half**
-- **Sensitivity: 1.398 mV/V** - meets the required criteria
-<div style="display:flex; gap:1rem; clear:both; width:100%; margin:1rem 0 2rem;"> <div style="flex:2 1 0; min-width:0;"> <!-- (Add image here if you have one; otherwise this box stays empty like #9’s structure) --> </div> </div>
 
+- Measured strain from the strain gauge in the model **ε = 1,397.9 µε**
+
+- Gauge factor: **K = 2**
+
+- Bridge setup used: **half**
+
+- **Sensitivity: 1.398 mV/V** – meets the required criteria
 
 ---
 
 ### 11) Strain Gauge Selection
+
 - Gauge Type: **Bonded Foil Strain Gauge**
+
 - Dimensions: **~ 7mm x 4mm**
+
 - Bonding area on the part is larger than this, providing enough room
-<div style="display:flex; gap:1rem; clear:both; width:100%; margin:1rem 0 2rem;"> <div style="flex:2 1 0; min-width:0;"> <!-- (Optional image slot, matching #9’s formatting) --> </div> </div>

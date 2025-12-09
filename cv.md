@@ -23,101 +23,101 @@ permalink: /cv/
     <div class="left"><strong>Cornell Mechanical &amp; Aerospace Engineering, Magnus Ultralight Project</strong> </div>
     <div class="date">Jan 2025 – present</div>
   </div>
-  <div class="role"><strong>Team Lead. Advised by Professor Mason Peck and funded by industry partners.</strong></div>
+  <div class="role"><strong>Electronics Lead, Advised by Professor Mason Peck and funded by industry partners.</strong></div>
   <ul>
-    <li>Lead a student research team hoping to develop the first production Magnus Effect-powered ultralight aircraft.</li>
+    <li>Joined Student research team of 3 hoping to develop the first production Magnus Effect-powered ultralight aircraft.</li>
     <li>Designed a scale VTOL vehicle capable of consistent performance for data collection, utilizing SOLIDWORKS, ANSYS, and MATLAB.</li>
     <li>Fabricated and flight-tested prototype, conducting ten five-minute hovers while lifting 4 kg of = payload (25% above initial goal).</li>
     <li>Designed and fabricated a dynamically balanced, gear-driven hub system for 1,500+ RPM Magnus Effect sphere actuation.</li>
     <li>Targeting Fall 2025 to test prototype using only the Magnus Effect to maintain steady level flight.</li>
   </ul>
 </div>
-
 <div class="item">
   <div class="item-header">
-    <div class="left"><strong>CU Design Build Fly (DBF) Project Team. Ithaca, NY</strong></div>
+    <div class="left"><strong>Cornell University Office of Visitor Relations, Ithaca, NY</strong></div>
+    <div class="date">May 2024 – Present</div>
   </div>
-  Design, build, test, and optimize a radio-controlled aircraft to compete in the AIAA Annual DBF Competition.
-</div>
-
-<div class="item">
-  <div class="item-header">
-    <div class="role"><strong>Full Team Co-Lead</strong></div>
-    <div class="date">May 2025 – present</div>
-  </div>
+  <div class="role"><strong>Information Specialist</strong></div>
   <ul>
-    <li>Direct 40 members across four subteams with a $35k budget. Responsible for technical project management and day-to-day operations.</li>
-    <li>Lead weekly all-hands meetings, subteam leadership meetings, and faculty advisor meetings.</li>
-    <li>Responsible for all engineering decision making and directing the development of the team’s competition aircraft.</li>
-    <li>Encourage team culture and commitment by fostering collaboration across subteams and coordinating regular social mixers.</li>
+    <li>Serve as an information specialist, providing excellent customer service to all university visitors.</li>
+    <li>Conduct campus tours, manage the front desk, and answer the Cornell University switchboard.</li>
   </ul>
 </div>
 
 <div class="item">
   <div class="item-header">
-    <div class="role"><strong>Mechanical and Structural Subteam Co-Lead</strong></div>
-    <div class="date">Jun 2024 – May 2025</div>
+    <div class="left"><strong>Cornell University Design Build Fly (DBF) Project Team, Ithaca, NY</strong></div>
+    <div class="date">Nov 2023 – Present</div>
   </div>
+  <div class="role"><strong>Propulsion Sub-Team Lead</strong></div>
   <ul>
-    <li>Led a 9-member team responsible for the mechanical and structural subsystems.</li>
-    <li>Designed and fabricated DBF’s first composite fuselage and landing gear structure, reducing aircraft weight by 45%.</li>
-    <li>Successfully met all required project deadlines by coordinating and supervising subteam projects, scheduling, and logistics.</li>
-    <li>Mentored five new team members in aircraft design theory, CAD skills, and aircraft fabrication skills.</li>
+    <li>Lead a team of 6 undergraduate students.</li>
+    <li>Delegate tasks and responsibilities for designing the propulsion system of a radio-controlled aircraft.</li>
   </ul>
 </div>
 
 <div class="item">
   <div class="item-header">
-    <div class="role"><strong>Mechanical and Structural Subteam Member</strong></div>
-    <div class="date">Sep 2023 – May 2024</div>
+    <div class="role"><strong>Propulsion Sub-Team Member</strong></div>
   </div>
   <ul>
-    <li>Redesigned aircraft nosecone, utilizing 3D printing and weight-focused design techniques to reduce nose cone mass by 65%.</li>
-    <li>Responsible for nose cone detailed design and landing gear trade studies of technical report (ranked 25/110).</li>
-    <li>Co-headed technical inspection and performed onsite fixes and upgrades to the aircraft at AIAA competition in Kansas.</li>
+    <li>Identify the battery and motor specifications required for the necessary flight time and payload capacity.</li>
+    <li>Perform propeller static thrust tests, ensuring the achievement of targeted metrics.</li>
+    <li>Design, test, integrate, iterate, solder, and wire the plane’s propulsion system.</li>
+    <li>Collaborate with aerodynamics and mechanical sub-teams to oversee the design and fabrication of the radio-controlled aircraft.</li>
+  </ul>
+</div>
+
+## LEADERSHIP AND COMMUNITY INVOLVEMENT
+<div class="item">
+  <div class="item-header">
+    <div class="left"><strong>Society of Women Engineers, Ithaca, NY</strong></div>
+    <div class="date">Sep 2023 – Present</div>
+  </div>
+  <div class="role"><strong>Outreach Committee Coordinator</strong></div>
+  <ul>
+    <li>Organize weekly meetings to create middle school outreach events to interest students in STEM.</li>
+    <li>Lead a committee of 7 colleagues.</li>
   </ul>
 </div>
 
 <div class="item">
   <div class="item-header">
-    <div class="left"><strong>Mohawk Mountain Alpine Ski Race Team, Cornwall, CT</strong> </div>
-    <div class="date">Mar 2022 – present</div>
+    <div class="left"><strong>Cornell University College of Engineering, Ithaca, NY</strong></div>
+    <div class="date">Sep 2023 – Present</div>
   </div>
-  <div class="role"><strong>Alpine Race Coach</strong></div>
+  <div class="role"><strong>Engineering Ambassador</strong></div>
   <ul>
-    <li>Coached 20 U12 athletes for 2022-2023 season, winning the overall league and sending six athletes to regional championships.</li>
-    <li>Train U10–U16 athletes on return-to-snow techniques in December race camps.</li>
+    <li>Serve as a representative of the College of Engineering, leading virtual and in-person sessions to engage and guide prospective students.</li>
+    <li>Participate in outreach initiatives, including virtual panels and in-person events.</li>
   </ul>
 </div>
 
-## PROJECTS
+## SKILLS & INTERESTS
 <div class="item">
-  <div class="item-header">
-    <div class="left"><strong>MATLAB Design Optimization Program</strong></div>
-    <div class="date">May 2025 – present</div>
-  </div>
+  <div class="left"><strong>Skills</strong></div>
   <ul>
-    <li>Developed a MATLAB design optimization program to produce theoretical aircraft designs for AIAA DBF competition.</li>
-    <li>Wrote the module to generate a high-fidelity structural model of the aircraft based on the design vector’s input parameters.</li>
-    <li>Cut overall program runtime by 85% by developing a pre-loading script for data tables.</li>
-    <li>Tested algorithm and successfully generated designs scoring in the top 5% of previous competition cycles.</li>
+    <li>CAD (Solidworks, Fusion 360)</li>
+    <li>MATLAB</li>
+    <li>Soldering</li>
+    <li>Ecalc</li>
+    <li>Machining (Mill, Lathe)</li>
+    <li>Arduino</li>
+    <li>Customer Service</li>
+    <li>Public Speaking</li>
+    <li>Aviation Trainee</li>
+    <li>Teamwork</li>
+    <li>Tutoring</li>
   </ul>
 </div>
 
-## TECHNICAL SKILLS
-**CAD and Simulation:** <br> SOLIDWORKS (advanced) | ANSYS (Fluent and Static Structural) (intermediate) | MATLAB (advanced).  
-**Programming Languages:** <br> Python (advanced) | HTML/CSS (intermediate). Tools: NumPy | pandas | scikit-learn | Flask | Git.  
-**Hardware:** <br> machining (mill, lathe, bandsaw) (intermediate) | 3D printing (advanced) | soldering (intermediate) | composite fabrication (advanced).  
-**Office/Data:** <br> PowerPoint (advanced) | Excel (intermediate) | Photoshop (intermediate) | Illustrator (intermediate).
+<div class="item">
+  <div class="left"><strong>Interests</strong></div>
+  <ul>
+    <li>Flying/Aviation</li>
+    <li>Space Exploration</li>
+    <li>Electric Aircraft Development</li>
+    <li>Sustainability</li>
+  </ul>
+</div>
 
-{% if site.baseurl %}
-<div class="resume-download">
-  <a href="{{ site.baseurl }}/assets/files/Ishan_Roy.pdf" class="download-button" download>Download Resume (PDF)</a>
-</div>
-{% else %}
-<div class="resume-download">
-  <a href="/assets/files/Ishan_Roy.pdf" class="download-button" download>Download Resume (PDF)</a>
-</div>
-{% endif %}
-
-</div>

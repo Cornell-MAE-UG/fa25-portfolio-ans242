@@ -3,7 +3,7 @@ layout: project
 title: "Torque Wrench Design & Finite Element Analysis - MAE 3270 Final Project"
 subtitle: ""
 date: 2025-12-05
-image: assets/images/materials-final/cadRender.jpg
+image: assets/images/materials-final/TWrender.png
 tags: [materials, fem, analysis]
 ---
 

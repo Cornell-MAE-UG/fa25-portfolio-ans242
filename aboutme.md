@@ -15,4 +15,4 @@ I’m a junior studying Mechanical Engineering at Cornell University. I’ve lov
 <div style="height:40px;"></div>
 
 
-<img src="{{ site.baseurl }}\assets\images\pilotpic.jpeg" alt="plane-running" class="project-image" style="width:100%;">
+<img src="{{ site.baseurl }}\assets\images\pilotpic.jpeg" alt="plane" class="project-image" style="width:100%;">

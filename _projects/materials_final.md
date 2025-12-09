@@ -38,7 +38,7 @@ Source: Aluminum Association / MIL-HDBK-5 / Ansys Granta
 
 ### 3) Finite Element Model Setup (Loads and Boundary Conditions)
 <div class="image-block-full">
-  <img src="{{ site.baseurl }}/assets/images/materials-final/fem-setup.png" alt="Loads and boundary conditions" class="project-image" style="width:100%;">
+  <img src="{{ site.baseurl }}/assets/images/materials-final/CTW.jpeg" alt="Loads and boundary conditions" class="project-image" style="width:100%;">
 </div>
 - Constraints: four faces of the block above the drive were constrained to have zero displacement
 - Load: A load of 600 lbf * in was applied at the end of the wrench handle
@@ -93,11 +93,6 @@ Source: Aluminum Association / MIL-HDBK-5 / Ansys Granta
   </div>
 
 
-
-
-
-
-
 ---
 
 ### 10) Torque-Wrench Sensitivity
@@ -105,6 +100,7 @@ Source: Aluminum Association / MIL-HDBK-5 / Ansys Granta
 - Gauge factor: **K = 2**
 - Bridge setup used:  **half**
 - **Sensitivity: 1.398 mV/V** - meets the required criteria
+<div style="display:flex; gap:1rem; clear:both; width:100%; margin:1rem 0 2rem;"> <div style="flex:2 1 0; min-width:0;"> <!-- (Add image here if you have one; otherwise this box stays empty like #9’s structure) --> </div> </div>
 
 
 ---
@@ -113,3 +109,4 @@ Source: Aluminum Association / MIL-HDBK-5 / Ansys Granta
 - Gauge Type: **Bonded Foil Strain Gauge**
 - Dimensions: **~ 7mm x 4mm**
 - Bonding area on the part is larger than this, providing enough room
+<div style="display:flex; gap:1rem; clear:both; width:100%; margin:1rem 0 2rem;"> <div style="flex:2 1 0; min-width:0;"> <!-- (Optional image slot, matching #9’s formatting) --> </div> </div>

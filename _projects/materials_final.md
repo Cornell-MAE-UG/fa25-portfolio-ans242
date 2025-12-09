@@ -83,34 +83,28 @@ Source: Aluminum Association / MIL-HDBK-5 / Ansys Granta
 
 ### 9) Strain at Gauge
 - **Value:** **1599.3 µε** at the set gauge location
-
-<div style="display:flex; gap:1rem; clear:both; width:100%; margin:1rem 0 2rem;">
-  <!-- Main image (~2/3 width) -->
-  <div style="flex:2 1 0; min-width:0;">
-    <img src="{{ site.baseurl }}/assets/images/materials-final/ProbeStrain.png"
-         alt="Strain at gauge location (field view)"
-         style="display:block; width:100%; height:auto;">
-  </div>
+<div class="image-block-full">
+  <img src="{{ site.baseurl }}/assets/images/materials-final/ProbeStrain.png"
+       alt="Screenshot of Strain Probe Location">
+</div>
 
 
 ---
 
 ### 10) Torque-Wrench Sensitivity
 
-- Measured strain from the strain gauge in the model **ε = 1,397.9 µε**
+Measured strain from the strain gauge in the model **ε = 1,397.9 µε**
 
-- Gauge factor: **K = 2**
+Gauge factor: **K = 2**
 
-- Bridge setup used: **half**
+Bridge setup used: **half**
 
-- **Sensitivity: 1.398 mV/V** – meets the required criteria
+**Sensitivity: 1.398 mV/V** – meets the required criteria
 
 ---
 
 ### 11) Strain Gauge Selection
 
-- Gauge Type: **Bonded Foil Strain Gauge**
+Gauge Type: **Bonded Foil Strain Gauge**
 
-- Dimensions: **~ 7mm x 4mm**
-
-- Bonding area on the part is larger than this, providing enough room
+Dimensions: **~ 7mm x 4mm**

@@ -24,7 +24,7 @@ permalink: /cv/
   </div>
   <div class="role"><strong>Electronics Lead, Advised by Professor Mason Peck and funded by industry partners.</strong></div>
   <ul>
-    <li>Joined Student research team of 3 hoping to develop the first production Magnus Effect-powered ultralight aircraft.</li>
+    <li>Joined student research team of 3 hoping to develop the first production Magnus Effect-powered ultralight aircraft.</li>
     <li>Designed a scale VTOL vehicle capable of consistent performance for data collection, utilizing SOLIDWORKS, ANSYS, and MATLAB.</li>
     <li>Fabricated and flight-tested prototype, conducting ten five-minute hovers while lifting 4 kg of = payload (25% above initial goal).</li>
     <li>Designed and fabricated a dynamically balanced, gear-driven hub system for 1,500+ RPM Magnus Effect sphere actuation.</li>

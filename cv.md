@@ -126,23 +126,6 @@ permalink: /cv/
   </a>
 </div>
 
-<style>
-.resume-button {
-  display: inline-block;
-  padding: 12px 25px;
-  background-color: #c02907ff; /* primary color, adjust if needed */
-  color: white;
-  font-weight: 600;
-  text-decoration: none;
-  border-radius: 8px;
-  transition: background-color 0.3s, transform 0.2s;
-}
-.resume-button:hover {
-  background-color: #871903ff; /* darker shade on hover */
-  transform: translateY(-2px);
-}
-</style>
-
 <div class="resume-download">
     <a href="{{ site.baseurl }}/assets/files/Alex Shuey Resume Nov 2025.pdf" class="download-button" download>
         Download Resume (PDF)

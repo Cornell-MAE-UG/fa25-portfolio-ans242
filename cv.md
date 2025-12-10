@@ -120,12 +120,6 @@ permalink: /cv/
   </ul>
 </div>
 
-<div class="resume-button-wrapper" style="text-align: center; margin: 20px 0;">
-  <a href="{{ site.baseurl }}/assets/files/Alex Shuey Resume Nov 2025.pdf" download class="resume-button">
-    Download Resume
-  </a>
-</div>
-
 <div class="resume-download">
     <a href="{{ site.baseurl }}/assets/files/Alex Shuey Resume Nov 2025.pdf" class="download-button" download>
         Download Resume (PDF)

@@ -13,7 +13,6 @@ icon: /assets/images/dissection.jpeg
     allowfullscreen
     style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;">
   </iframe>
-
 </div>
 <p style="font-size:0.95rem;color:#555;">
 A narrated walkthrough explaining the governing equations, assumptions,

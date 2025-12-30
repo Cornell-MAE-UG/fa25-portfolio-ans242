@@ -3,7 +3,7 @@ layout: project
 title: "Custom Motor Mount"
 subtitle: "AKA: learning DFM by necessity"
 date: 2025-2-12
-image: assets/images/motormount.png
+image: assets/images/mmcad1.png
 tags: [motor, machining, modelling]
 ---
 
@@ -26,9 +26,9 @@ The process involved a lot of trying, failing, and trying again. The first itera
   </figure>
 
   <figure style="width:48%; text-align:center;">
-    <img src="{{ site.baseurl }}/assets/images/mmcad.png" alt="Motor mount CAD" class="project-image" style="width:100%;">
+    <img src="{{ site.baseurl }}/assets/images/motormount.png" alt="Motor mount CAD" class="project-image" style="width:100%;">
     <figcaption style="font-size: 0.9em; color: #666;">
-      finalized CAD
+      one of the later iterations
     </figcaption>
   </figure>
 </div>

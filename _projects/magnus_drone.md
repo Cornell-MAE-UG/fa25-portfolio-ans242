@@ -1,10 +1,10 @@
 ---
 layout: project
 title: "Magnus Effect Powered Drone"
-subtitle: ""
+subtitle: "AKA: that summer we decided propellers were overrated*
 date: 2025-8-2
 image: assets/images/V3_Full_Render.jpg
-tags: [glider, dragonfly, modelling]
+tags: [magnus, drone, vtol]
 ---
 
 ### Summary

@@ -14,7 +14,24 @@ I joined the project in the summer of 2025 and contributed to building and testi
 
 I continue to work with the team during this academic year, with plans to conduct full-system test flights in the near future.
 <div style="display: flex; gap: 10px; justify-content: center; align-items: flex-start;">
-  <img src="{{ site.baseurl }}/assets/images/maggiefly.png" alt="flying drone" class="project-image" style="width:48%;">
-  <img src="{{ site.baseurl }}/assets/images/maggiework.png" alt="drone fabrication" class="project-image" style="width:48%;">
+  <figure style="width:48%; text-align:center;">
+    <img src="{{ site.baseurl }}/assets/images/maggiefly.png"
+         alt="drone in flight"
+         class="project-image"
+         style="width:100%;">
+    <figcaption style="font-size: 0.85em; color: #777;">
+      she flew!
+    </figcaption>
+  </figure>
+
+  <figure style="width:48%; text-align:center;">
+    <img src="{{ site.baseurl }}/assets/images/maggiework.png"
+         alt="Hands-on fabrication of Magnus Effect drone"
+         class="project-image"
+         style="width:100%;">
+    <figcaption style="font-size: 0.85em; color: #777;">
+      making updates
+    </figcaption>
+  </figure>
 </div>
 

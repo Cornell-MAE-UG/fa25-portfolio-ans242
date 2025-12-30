@@ -21,7 +21,7 @@ The process involved a lot of trying, failing, and trying again. The first itera
   <figure style="width:48%; text-align:center;">
     <img src="{{ site.baseurl }}/assets/images/mill.png" alt="Machining motor mount on milling machine" class="project-image" style="width:100%;">
     <figcaption style="font-size: 0.9em; color: #666;">
-      me and my new best friend
+      learning process
     </figcaption>
   </figure>
 

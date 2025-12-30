@@ -1,7 +1,7 @@
 ---
 layout: project
 title: "Magnus Effect Powered Drone"
-subtitle: "AKA: that summer we decided propellers were overrated*
+subtitle: "AKA: Maggie"
 date: 2025-8-2
 image: assets/images/V3_Full_Render.jpg
 tags: [magnus, drone, vtol]

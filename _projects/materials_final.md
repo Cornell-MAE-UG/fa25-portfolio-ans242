@@ -1,13 +1,13 @@
 ---
 layout: project
 title: "Torque Wrench Design & Finite Element Analysis - MAE 3270 Final Project"
-subtitle: ""
+subtitle: "AKA: I designed a torque wrench and then analyzed it far too much"
 date: 2025-12-05
 image: assets/images/materials-final/TWrender.png
 tags: [materials, fem, analysis]
 ---
 
-### Summaryof design
+### Summary of design
 The goal of this project was to design a non-ratcheting torque wrench capable of meeting several design and performance specifications. I used a MATLAB script to perform analytical calculations and run through possible designs. Using the best result from the script, I then CADed a model in Fusion360 and created a Finite Element Model (FEM) using Ansys Static Structural. I conducted analysis and then compared it to the results of the analytical calculations.
 
 ---

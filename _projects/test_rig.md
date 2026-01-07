@@ -11,7 +11,7 @@ tags: [thrust, testing, modelling]
 A big part of making our plane fly is picking out the best possible propulsion system. Since small changes in motors, propellers, or batteries can make a big difference in performance, we needed a way to directly test and compare different setups. To do this, I designed and built a thrust testing rig with the motor mounted at the center of a wooden plank. The rig was intentionally constructed from wood to maximize flexibility, allowing mounting locations to be easily drilled and adjusted as testing needs evolved. This design made it straightforward to reposition the motor between tests and left the option open to adapt the rig for dual-motor testing in the future if required.
 
 <p align="center">
-  <img src="images/rigpic.png" width="70%">
+  <img src="{{ site.baseurl }}/assets/images/rigpic.png" width="70%">
 </p>
 
 **Method**  
@@ -20,8 +20,8 @@ As the propeller rotates, it generates a moment about the axle, causing the lowe
 For each propeller configuration, tests were run using the aircraft’s flight controller, with the throttle manually ramped to full and maintained for five minutes to replicate competition flight conditions.
 
 <p align="center">
-  <img src="images/rigphysics.jpeg" width="250" height="250" style="object-fit: cover; margin-right: 10px;" alt="rig physics">
-  <img src="images/hugosmirk.png" width="250" height="250" style="object-fit: cover;" alt="Thrust rig testing setup">
+  <img src="{{ site.baseurl }}/assets/images/rigphysics.jpeg" width="250" height="250" style="object-fit: cover; margin-right: 10px;" alt="rig physics">
+  <img src="{{ site.baseurl }}/assets/images/hugosmirk.png" width="250" height="250" style="object-fit: cover;" alt="Thrust rig testing setup">
 </p>
 
 **Electrical and Battery Data Integration**  
@@ -29,7 +29,7 @@ In addition to measuring thrust with the load cell, I wanted to add a battery mo
 
 
 <p align="center">
-  <img src="images/wiringdiagram.png" width="70%">
+  <img src="{{ site.baseurl }}/assets/images/wiringdiagram.png" width="70%">
 </p>
 
 **Results**  
@@ -38,12 +38,12 @@ This year, we were considering a few different motor–battery configurations fo
 We also compared the experimental results to MATLAB-based performance predictions generated using propeller data and basic motor and battery equations to estimate steady-state behavior at different throttle settings. While the overall trends aligned well, the measured static thrust values were typically about 1–2 kg lower than the predicted values, highlighting real-world losses not captured in the models and potentially indicating sources of error in the thrust rig itself.
 
 <p align="center">
-  <img src="images/thrustresults.png" width="70%">
+  <img src="{{ site.baseurl }}/assets/images/thrustresults.png" width="70%">
 </p>
 
 **Future Improvements**  
 In the future, it could make sense to transition this rig to a metal structure and add automated throttle ramp-up and data collection for more repeatable testing. For now, though, wood was a great choice. It was inexpensive, easy to get, and simple to modify as the design evolved. It let us build and iterate quickly, and it ultimately got the job done well without adding unnecessary complexity.
 
 <p align="center">
-  <img src="images/rigconstruct.png" width="300" height="300" style="object-fit: cover;" alt="Thrust rig construction in progress">
+  <img src="{{ site.baseurl }}/assets/images/rigconstruct.png" width="300" height="300" style="object-fit: cover;" alt="Thrust rig construction in progress">
 </p>

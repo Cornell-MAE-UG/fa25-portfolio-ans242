@@ -1,9 +1,9 @@
 ---
 layout: project
 title: "Static Thrust Testing Rig"
-subtitle: "AKA: learning DFM by necessity"
+subtitle: "AKA: do we have enough power?"
 date: 2025-9-12
-image: assets/images/mmcad1.png
+image: assets/images/rigCAD.png
 tags: [thrust, testing, modelling]
 ---
 

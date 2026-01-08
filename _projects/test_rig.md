@@ -22,14 +22,14 @@ For each propeller configuration, tests were run using the aircraft’s flight c
 <div style="display: flex; gap: 10px; justify-content: center; align-items: flex-start;">
   <figure style="width:48%; text-align:center;">
     <img src="{{ site.baseurl }}/assets/images/rigphysics.jpeg"
-         alt="drone in flight"
+         alt="rig physics"
          class="project-image"
          style="width:100%;">
   </figure>
 
   <figure style="width:48%; text-align:center;">
     <img src="{{ site.baseurl }}/assets/images/hugosmirk.png"
-         alt="Hands-on fabrication of Magnus Effect drone"
+         alt="image during test"
          class="project-image"
          style="width:100%;">
   </figure>
@@ -55,6 +55,18 @@ We also compared the experimental results to MATLAB-based performance prediction
 **Future Improvements**  
 In the future, it could make sense to transition this rig to a metal structure and add automated throttle ramp-up and data collection for more repeatable testing. For now, though, wood was a great choice. It was inexpensive, easy to get, and simple to modify as the design evolved. It let us build and iterate quickly, and it ultimately got the job done well without adding unnecessary complexity.
 
-<p align="center">
-  <img src="{{ site.baseurl }}/assets/images/rigconstruct.png" width="300" height="300" style="object-fit: cover;" alt="Thrust rig construction in progress">
-</p>
+<div style="display: flex; gap: 10px; justify-content: center; align-items: flex-start;">
+  <figure style="width:48%; text-align:center;">
+    <img src="{{ site.baseurl }}/assets/images/rigconstruct.png"
+         alt="sawing wood"
+         class="project-image"
+         style="width:100%;">
+  </figure>
+
+  <figure style="width:48%; text-align:center;">
+    <img src="{{ site.baseurl }}/assets/images/shopping.jpeg"
+         alt="buying wood"
+         class="project-image"
+         style="width:100%;">
+  </figure>
+</div>

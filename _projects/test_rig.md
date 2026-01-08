@@ -19,15 +19,19 @@ As the propeller rotates, it generates a moment about the axle, causing the lowe
 
 For each propeller configuration, tests were run using the aircraft’s flight controller, with the throttle manually ramped to full and maintained for five minutes to replicate competition flight conditions.
 
-<div class="img-row">
-  <figure>
-    <img src="{{ site.baseurl }}/assets/images/rigphysics.jpeg" alt="Thrust rig sketch">
-    <figcaption>Free-body sketch showing moment balance</figcaption>
+<div style="display: flex; gap: 10px; justify-content: center; align-items: flex-start;">
+  <figure style="width:48%; text-align:center;">
+    <img src="{{ site.baseurl }}/assets/images/rigphysics.jpeg"
+         alt="drone in flight"
+         class="project-image"
+         style="width:100%;">
   </figure>
 
-  <figure>
-    <img src="{{ site.baseurl }}/assets/images/hugosmirk.png" alt="Thrust rig testing">
-    <figcaption>Outdoor thrust testing using the flight controller</figcaption>
+  <figure style="width:48%; text-align:center;">
+    <img src="{{ site.baseurl }}/assets/images/hugosmirk.png"
+         alt="Hands-on fabrication of Magnus Effect drone"
+         class="project-image"
+         style="width:100%;">
   </figure>
 </div>
 

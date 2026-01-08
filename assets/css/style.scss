@@ -238,6 +238,39 @@ p {
 .image-block-full { display:block; width:100%; margin:1rem 0 2rem; clear:both; }
 .image-block-full > img { display:block; width:100%; max-width:100%; height:auto; margin:0; float:none; }
 
+/* Side-by-side image row with captions */
+.img-row{
+  display: flex;
+  gap: 16px;
+  justify-content: center;
+  align-items: flex-start;
+  flex-wrap: wrap;   /* wraps on smaller screens */
+  margin: 1.5rem 0;
+  clear: both;       /* plays nicely with your floated wrappers */
+}
+
+.img-row figure{
+  flex: 1 1 420px;   /* min width before it wraps */
+  max-width: 520px;
+  margin: 0;
+}
+
+.img-row img{
+  width: 100%;
+  height: auto;
+  display: block;
+  border-radius: 8px;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+}
+
+.img-row figcaption{
+  margin-top: 0.5rem;
+  font-size: 0.9rem;
+  color: $streamlit-subtle-text;
+  text-align: center;
+}
+
+
 // Page specific content styling
 .page-content, .project-detail {
   .page-header h1 {

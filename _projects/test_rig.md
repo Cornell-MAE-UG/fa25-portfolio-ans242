@@ -19,10 +19,17 @@ As the propeller rotates, it generates a moment about the axle, causing the lowe
 
 For each propeller configuration, tests were run using the aircraft’s flight controller, with the throttle manually ramped to full and maintained for five minutes to replicate competition flight conditions.
 
-<p align="center">
-  <img src="{{ site.baseurl }}/assets/images/rigphysics.jpeg" width="250" height="250" style="object-fit: cover; margin-right: 10px;" alt="rig physics">
-  <img src="{{ site.baseurl }}/assets/images/hugosmirk.png" width="250" height="250" style="object-fit: cover;" alt="Thrust rig testing setup">
-</p>
+<div class="img-row">
+  <figure>
+    <img src="{{ site.baseurl }}/assets/images/rigphysics.jpeg" alt="Thrust rig sketch">
+    <figcaption>Free-body sketch showing moment balance</figcaption>
+  </figure>
+
+  <figure>
+    <img src="{{ site.baseurl }}/assets/images/hugosmirk.png" alt="Thrust rig testing">
+    <figcaption>Outdoor thrust testing using the flight controller</figcaption>
+  </figure>
+</div>
 
 **Electrical and Battery Data Integration**  
 In addition to measuring thrust with the load cell, I wanted to add a battery monitoring setup to the static thrust test to track voltage, current, and power. As lead, I worked with one of my Electrical and Computer Engineering subteam members to make this possible. An INA226EVM and shunt resistor were integrated into the existing test circuit to monitor both the ESC and battery power lines. Data from the INA226EVM was sent to the Arduino over I²C and synced with thrust data from the HX711 load cell. The Arduino logged everything together and exported the results to an Excel spreadsheet for analysis, allowing us to see how different throttle settings impacted battery usage over time.

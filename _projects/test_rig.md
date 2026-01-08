@@ -55,18 +55,16 @@ We also compared the experimental results to MATLAB-based performance prediction
 **Future Improvements**  
 In the future, it could make sense to transition this rig to a metal structure and add automated throttle ramp-up and data collection for more repeatable testing. For now, though, wood was a great choice. It was inexpensive, easy to get, and simple to modify as the design evolved. It let us build and iterate quickly, and it ultimately got the job done well without adding unnecessary complexity.
 
-<div style="display: flex; gap: 10px; justify-content: center; align-items: flex-start;">
+<div style="display:flex; gap:10px; justify-content:center; align-items:flex-start;">
   <figure style="width:48%; text-align:center;">
     <img src="{{ site.baseurl }}/assets/images/rigconstruct.png"
-         alt="sawing wood"
-         class="project-image"
-         style="width:100%;">
+         alt="Sawing wood"
+         style="width:100%; height:300px; object-fit:cover; border-radius:8px;">
   </figure>
 
   <figure style="width:48%; text-align:center;">
     <img src="{{ site.baseurl }}/assets/images/shopping.jpeg"
-         alt="buying wood"
-         class="project-image"
-         style="width:100%;">
+         alt="Buying wood"
+         style="width:100%; height:300px; object-fit:cover; border-radius:8px;">
   </figure>
 </div>

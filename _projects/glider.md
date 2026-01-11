@@ -87,25 +87,28 @@ On the last day of class, there was a glider performance competition. Out of 15 
     Your browser does not support the video tag.
   </video>
 </div>
+<div style="display: flex; gap: 10px; justify-content: center; align-items: center;">
 
-<div style="display: flex; gap: 10px; justify-content: center; align-items: flex-start;">
-  <figure style="width:48%; text-align:center;">
-    <img src="{{ site.baseurl }}/assets/images/gliderpic.png"
-         alt="drone in flight"
-         class="project-image"
-         style="width:100%;">
-    <figcaption style="font-size: 0.85em; color: #777;">
-      final product
-    </figcaption>
-  </figure>
-
+  <!-- Image -->
   <figure style="width:48%; text-align:center;">
     <img src="{{ site.baseurl }}/assets/images/airyay.png"
-         alt="Hands-on fabrication of Magnus Effect drone"
+         alt="glider in flight"
          class="project-image"
          style="width:100%;">
     <figcaption style="font-size: 0.85em; color: #777;">
       the team and our award!
     </figcaption>
   </figure>
+
+  <!-- Button -->
+  <div style="width:48%; text-align:center; display:flex; justify-content:center; align-items:center;">
+    <div class="resume-download">
+      <a href="{{ site.baseurl }}/assets/files/Aero Glider Final Design Report.pdf"
+         class="download-button"
+         download>
+        Download Final Report (PDF)
+      </a>
+    </div>
+  </div>
+
 </div>

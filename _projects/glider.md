@@ -83,12 +83,29 @@ On the last day of class, there was a glider performance competition. Out of 15 
 
 <div style="display: flex; justify-content: center; margin: 20px 0;">
   <video width="70%" controls>
-    <source src="{{ site.baseurl }}/assets/images/flight.MOV" type="video/quicktime">
+    <source src="{{ site.baseurl }}/assets/images/gliderfly.mp4" type="video/mp4">
     Your browser does not support the video tag.
   </video>
 </div>
 
-<p align="center">
-  <img src="{{ site.baseurl }}/assets/images/airyay.png" width="70%">
-</p>
+<div style="display: flex; gap: 10px; justify-content: center; align-items: flex-start;">
+  <figure style="width:48%; text-align:center;">
+    <img src="{{ site.baseurl }}/assets/images/gliderpic.png"
+         alt="drone in flight"
+         class="project-image"
+         style="width:100%;">
+    <figcaption style="font-size: 0.85em; color: #777;">
+      final product
+    </figcaption>
+  </figure>
 
+  <figure style="width:48%; text-align:center;">
+    <img src="{{ site.baseurl }}/assets/images/airyay.png"
+         alt="Hands-on fabrication of Magnus Effect drone"
+         class="project-image"
+         style="width:100%;">
+    <figcaption style="font-size: 0.85em; color: #777;">
+      the team and our award!
+    </figcaption>
+  </figure>
+</div>

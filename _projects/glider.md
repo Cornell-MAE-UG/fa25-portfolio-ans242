@@ -1,6 +1,6 @@
 ---
 layout: project
-title: "Glider"
+title: "Glider Design Project"
 subtitle: "AKA: Galider the Good"
 date: 2025-12-12
 image: assets/images/galiderCAD.png

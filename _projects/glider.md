@@ -3,7 +3,7 @@ layout: project
 title: "Glider"
 subtitle: "AKA: Galider the Good"
 date: 2025-12-12
-image: assets/images/galiderCAD.jpg
+image: assets/images/galiderCAD.png
 tags: [glider, XFLR5, design]
 ---
 

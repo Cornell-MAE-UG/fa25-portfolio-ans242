@@ -70,10 +70,10 @@ In the future, it could make sense to transition this rig to a metal structure a
 </div>
 
 **Payoff**  
-Given the results from the new static thrust testing rig, I was able to optimized our motor-battery-propeller configuration to be more than adequate for flight. This years setup so far resulted in two successful eight minute test flights, three minutes longer than we will need in our competition. 
+Given the results from the new static thrust testing rig, I was able to optimize our motor-battery-propeller configuration to be more than adequate for flight. This years setup so far resulted in two successful eight minute test flights, three minutes longer than we will need in our competition. 
 
 <p style="text-align: center; font-weight: 600; margin-bottom: 8px;">
-  Watch some test flight highlights!
+  Watch some flight test highlights!
 </p>
 
 <div style="display: flex; justify-content: center; margin: 20px 0;">

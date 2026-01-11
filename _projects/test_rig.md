@@ -1,7 +1,7 @@
 ---
 layout: project
 title: "Static Thrust Testing Rig"
-subtitle: "AKA: do we have enough power?"
+subtitle: "AKA: will it fly?"
 date: 2025-9-12
 image: assets/images/rigCAD.png
 tags: [thrust, testing, modelling]

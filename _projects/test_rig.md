@@ -77,8 +77,11 @@ Given the results from the new static thrust testing rig, I was able to optimize
 </p>
 
 <div style="display: flex; justify-content: center; margin: 20px 0;">
-  <video width="70%" controls>
-    <source src="{{ site.baseurl }}/assets/images/dbfflight.mp4" type="video/mp4">
-    Your browser does not support the video tag.
-  </video>
+  <iframe width="70%" height="400"
+    src="https://www.youtube.com/embed/jy73Qb3W6QE"
+    title="DBF Flight Test"
+    frameborder="0"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+    allowfullscreen>
+  </iframe>
 </div>

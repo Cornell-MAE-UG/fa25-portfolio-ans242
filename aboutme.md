@@ -23,4 +23,4 @@ I have extensive hands-on project and research experience, and I’m excited to 
 <div style="height:40px;"></div>
 
 
-<img src="{{ site.baseurl }}\assets\images\pilotpic.jpeg" alt="plane" class="project-image" style="width:100%;">
+<img src="{{ site.baseurl }}/assets/images/pilotpic.jpeg" alt="plane" class="project-image" style="width:100%;">

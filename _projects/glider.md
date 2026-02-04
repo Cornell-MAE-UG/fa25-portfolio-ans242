@@ -82,11 +82,15 @@ We were given a limited amount of spruce, glue, clay, and tissue paper, with com
 On the last day of class, there was a glider performance competition. Out of 15 teams, our glider placed second and flew the farthest distance! 
 
 <div style="display: flex; justify-content: center; margin: 20px 0;">
-  <video width="70%" controls>
-    <source src="{{ site.baseurl }}/assets/images/gliderfly.mp4" type="video/mp4">
-    Your browser does not support the video tag.
-  </video>
+  <iframe width="70%" height="400"
+    src="https://www.youtube.com/embed/oDY6BgH0H4k"
+    title="Glider Flight Test"
+    frameborder="0"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+    allowfullscreen>
+  </iframe>
 </div>
+
 <div style="display: flex; gap: 10px; justify-content: center; align-items: center;">
 
   <!-- Image -->

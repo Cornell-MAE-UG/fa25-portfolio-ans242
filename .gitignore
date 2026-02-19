@@ -32,3 +32,7 @@ Gemfile.lock
 
 # VS Code specific settings
 .vscode/
+
+# iCloud placeholders
+*.icloud
+**/*.icloud

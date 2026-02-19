@@ -4,18 +4,16 @@ title: Coursework
 permalink: /coursework/
 ---
 
-## Coming up... (Exchange semester at the Technical University of Denmark)
+## Junior Year
 
+**Coming up... (Exchange semester at the Technical University of Denmark)**
 - **62629:** Heat and Mass Transfer
 - **30310:** Space Systems Engineering
 - **41107:** Marine and Ocean Engineering
 - **38001:** Sustainable Entrepreneurship
 - **02402:** Statistics (Polytechnical Foundation)
 
----
-
-## Junior Year
-
+**Fall 2025**
 - **MAE 3230:** Introductory Fluid Mechanics
 - **MAE 3270:** Mechanics of Engineering Materials
 - **MAE 3260:** System Dynamics

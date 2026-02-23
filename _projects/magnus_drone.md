@@ -13,14 +13,19 @@ This project began in the spring of 2025 under Professor Mason Peck, exploring w
 I joined the project in the summer of 2025 and contributed to building and testing a scaled-down Magnus Effect-powered quadcopter designed to validate the concept. I contributed to both electrical and mechanical integration, designed and wired the power distribution board, and completed the propulsion system sizing to meet thrust and torque requirements. The preliminary sizing was done mainly via a custom MATLAB script and a software called eCalc, and iterative improvements were made following test results. Working closely with the team, I made improvements to the vehicle, including refining the wiring design, landing gear design and fabrication, and custom manufacturing using a mill and lathe. These efforts helped the quadcopter achieve stable flight with a payload of 4 kilograms.
 
 I continue to work with the team during this academic year, with plans to conduct full-system test flights in the near future.
+
+<p align="center">
+  <img src="{{ site.baseurl }}/assets/images/maggiefly.png" width="70%">
+</p>
+
 <div style="display: flex; gap: 10px; justify-content: center; align-items: flex-start;">
   <figure style="width:48%; text-align:center;">
-    <img src="{{ site.baseurl }}/assets/images/maggiefly.png"
-         alt="drone in flight"
+    <img src="{{ site.baseurl }}/assets/images/maggiewiring.jpeg"
+         alt="wiring"
          class="project-image"
          style="width:100%;">
     <figcaption style="font-size: 0.85em; color: #777;">
-      she flew!
+      wiring detail
     </figcaption>
   </figure>
 

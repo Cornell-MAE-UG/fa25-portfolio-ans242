@@ -18,26 +18,27 @@ I continue to work with the team during this academic year, with plans to conduc
   <img src="{{ site.baseurl }}/assets/images/maggiefly.png" width="70%">
 </p>
 
-<div style="display: flex; gap: 10px; justify-content: center; align-items: flex-start;">
-  <figure style="width:48%; text-align:center;">
+<div style="display: flex; gap: 20px; justify-content: center; align-items: stretch;">
+  
+  <figure style="flex: 1; text-align: center; margin: 0;">
     <img src="{{ site.baseurl }}/assets/images/maggiewiring.jpeg"
          alt="wiring"
          class="project-image"
-         style="width:100%; transform: rotate(180deg);">
+         style="width:100%; height:300px; object-fit: cover;">
     <figcaption style="font-size: 0.85em; color: #777;">
       wiring detail
     </figcaption>
   </figure>
-</div>
 
-  <figure style="width:48%; text-align:center;">
+  <figure style="flex: 1; text-align: center; margin: 0;">
     <img src="{{ site.baseurl }}/assets/images/maggiework.png"
          alt="Hands-on fabrication of Magnus Effect drone"
          class="project-image"
-         style="width:100%;">
+         style="width:100%; height:300px; object-fit: cover;">
     <figcaption style="font-size: 0.85em; color: #777;">
       making updates
     </figcaption>
   </figure>
+
 </div>
 

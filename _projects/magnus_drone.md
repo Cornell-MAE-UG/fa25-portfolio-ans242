@@ -23,11 +23,12 @@ I continue to work with the team during this academic year, with plans to conduc
     <img src="{{ site.baseurl }}/assets/images/maggiewiring.jpeg"
          alt="wiring"
          class="project-image"
-         style="width:100%;">
+         style="width:100%; transform: rotate(180deg);">
     <figcaption style="font-size: 0.85em; color: #777;">
       wiring detail
     </figcaption>
   </figure>
+</div>
 
   <figure style="width:48%; text-align:center;">
     <img src="{{ site.baseurl }}/assets/images/maggiework.png"

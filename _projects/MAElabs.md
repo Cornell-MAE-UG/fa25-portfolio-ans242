@@ -15,31 +15,56 @@ For MAE 3260, I helped develop new experimental setups by soldering approximatel
 
 Beyond MAE 3260, I also assisted with the fabrication of a ramp for a robotics lab. The internship gave me hands-on experience with CAD, 3D printing, soldering, electronics integration, and fabrication while contributing directly to the development and maintenance of instructional laboratory equipment used by Cornell engineering students.
 
-<p align="center">
-  <img src="{{ site.baseurl }}/assets/images/maggiefly.png" width="70%">
-</p>
+<figure style="text-align: center; margin: 0;">
+  <img src="{{ site.baseurl }}/assets/images/rackLabel.png"
+       width="70%"
+       alt="rack label">
+
+  <figcaption style="font-size: 0.85em; color: #777;">
+    Rack Label Drawing
+  </figcaption>
+</figure>
 
 <div style="display: flex; gap: 20px; justify-content: center; align-items: stretch;">
   
   <figure style="flex: 1; text-align: center; margin: 0;">
-    <img src="{{ site.baseurl }}/assets/images/maggiewiring.jpeg"
+    <img src="{{ site.baseurl }}/assets/images/materials-final/prototypeAdaptors.jpg"
          alt="wiring"
          class="project-image"
          style="width:100%; height:300px; object-fit: cover;">
     <figcaption style="font-size: 0.85em; color: #777;">
-      rack label CAD
+      adaptor CAD
     </figcaption>
   </figure>
 
   <figure style="flex: 1; text-align: center; margin: 0;">
-    <img src="{{ site.baseurl }}/assets/images/maggiework.png"
-         alt="Hands-on fabrication of Magnus Effect drone"
+    <img src="{{ site.baseurl }}/assets/images/materials-final/prototypeAdaptors.jpg"
+         alt="3D printed prototypes"
          class="project-image"
          style="width:100%; height:300px; object-fit: cover;">
     <figcaption style="font-size: 0.85em; color: #777;">
-      NI USB-6001 custom set-up
+      adaptor prototypes 
     </figcaption>
   </figure>
 
 </div>
 
+<figure style="text-align: center; margin: 0;">
+  <img src="{{ site.baseurl }}/assets/images/materials-final/adaptorsInUse.jpg"
+       width="70%"
+       alt="adaptors in use">
+
+  <figcaption style="font-size: 0.85em; color: #777;">
+    adaptors in use!
+  </figcaption>
+</figure>
+
+<figure style="text-align: center; margin: 0;">
+  <img src="{{ site.baseurl }}/assets/images/materials-final/200bnc.jpg"
+       width="70%"
+       alt="200 bnc connectors">
+
+  <figcaption style="font-size: 0.85em; color: #777;">
+    200 BNC connectors!
+  </figcaption>
+</figure>

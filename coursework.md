@@ -4,9 +4,18 @@ title: Coursework
 permalink: /coursework/
 ---
 
+## Senior Year
+
+**Coming Up... Fall 2026**
+- **MAE 4272:** Fluids and Heat Transfer Laboratory
+- **MAE 4300:** Engineers and Society
+- **PHYS 2214:** Physics III: Oscillations, Waves, and Quantum Physics
+- **MAE 4291:** Supervised Senior Design Experience
+- **PE 1545:** Beginning Figure Skating
+
 ## Junior Year
 
-**Coming up... (Exchange semester at the Technical University of Denmark)**
+**Spring 2026 (Exchange semester at the Technical University of Denmark)**
 - **62629:** Heat and Mass Transfer
 - **30310:** Space Systems Engineering
 - **41107:** Marine and Ocean Engineering

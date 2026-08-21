@@ -28,7 +28,7 @@ Beyond MAE 3260, I also assisted with the fabrication of a ramp for a robotics l
 <div style="display: flex; gap: 20px; justify-content: center; align-items: stretch;">
   
   <figure style="flex: 1; text-align: center; margin: 0;">
-    <img src="{{ site.baseurl }}/assets/images/materials-final/prototypeAdaptors.jpg"
+    <img src="{{ site.baseurl }}/assets/images/adaptorRender.png"
          alt="wiring"
          class="project-image"
          style="width:100%; height:300px; object-fit: cover;">
@@ -38,7 +38,7 @@ Beyond MAE 3260, I also assisted with the fabrication of a ramp for a robotics l
   </figure>
 
   <figure style="flex: 1; text-align: center; margin: 0;">
-    <img src="{{ site.baseurl }}/assets/images/materials-final/prototypeAdaptors.jpg"
+    <img src="{{ site.baseurl }}/assets/images/prototypeAdaptors.jpg"
          alt="3D printed prototypes"
          class="project-image"
          style="width:100%; height:300px; object-fit: cover;">
@@ -50,7 +50,7 @@ Beyond MAE 3260, I also assisted with the fabrication of a ramp for a robotics l
 </div>
 
 <figure style="text-align: center; margin: 0;">
-  <img src="{{ site.baseurl }}/assets/images/materials-final/adaptorsInUse.jpg"
+  <img src="{{ site.baseurl }}/assets/images/adaptorsInUse.jpg"
        width="70%"
        alt="adaptors in use">
 
@@ -60,7 +60,7 @@ Beyond MAE 3260, I also assisted with the fabrication of a ramp for a robotics l
 </figure>
 
 <figure style="text-align: center; margin: 0;">
-  <img src="{{ site.baseurl }}/assets/images/materials-final/200bnc.jpg"
+  <img src="{{ site.baseurl }}/assets/images/200bnc.jpg"
        width="70%"
        alt="200 bnc connectors">
 

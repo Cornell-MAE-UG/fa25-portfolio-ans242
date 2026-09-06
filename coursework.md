@@ -11,6 +11,7 @@ permalink: /coursework/
 - **MAE 4300:** Engineers and Society
 - **PHYS 2214:** Physics III: Oscillations, Waves, and Quantum Physics
 - **MAE 4291:** Supervised Senior Design Experience
+- **ARKEO 3090:** Introduction to Dendrochronology
 - **PE 1545:** Beginning Figure Skating
 
 ## Junior Year

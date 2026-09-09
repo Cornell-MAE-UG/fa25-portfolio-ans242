@@ -13,7 +13,7 @@ permalink: /cv/
     <div class="date">Expected Graduation May 2027</div>
   </div>
   <div class = "role">Sibley School of Mechanical and Aerospace Engineering<br></div>
-  Bachelor of Science in Mechanical Engineering with a Minor in Aerospace Engineering.<br>
+  Bachelor of Science in Mechanical Engineering <br>
 </div>
 
 ## EXPERIENCE
@@ -68,27 +68,49 @@ permalink: /cv/
 </div>
 
 <div class="item">
-  <div class="item-header">
-    <div class="left"><strong>Cornell University Design Build Fly (DBF) Project Team, Ithaca, NY</strong></div>
-    <div class="date">Nov 2023 – Present</div>
-  </div>
-  <div class="role"><strong>Propulsion Sub-Team Lead</strong></div>
-  <ul>
-    <li>Lead a team of 6 undergraduate students.</li>
-    <li>Delegate tasks and responsibilities for designing the propulsion system of a radio-controlled aircraft.</li>
-  </ul>
+
+<div class="item-header">
+
+<div class="left"><strong>Cornell University Design Build Fly (DBF) Project Team, Ithaca, NY</strong></div>
+
+<div class="date">Nov 2023 – Present</div>
+
+</div>
+
+<div class="role"><strong>Propulsion Sub-Team Lead</strong></div>
+
+<ul>
+
+<li>Led 6 mechanical and electrical engineers through propulsion design, manufacturing, testing, and aircraft integration.</li>
+
+<li>Directed propulsion testing and design reviews, using structured test procedures and documentation to drive design decisions and manage technical risk.</li>
+
+<li>Performed propulsion analysis and validation using MATLAB, Python, eCalc, static thrust testing, wiring, and aircraft integration.</li>
+
+</ul>
+
 </div>
 
 <div class="item">
-  <div class="item-header">
-    <div class="role"><strong>Propulsion Sub-Team Member</strong></div>
-  </div>
-  <ul>
-    <li>Identify the battery and motor specifications required for the necessary flight time and payload capacity.</li>
-    <li>Perform propeller static thrust tests, ensuring the achievement of targeted metrics.</li>
-    <li>Design, test, integrate, iterate, solder, and wire the plane’s propulsion system.</li>
-    <li>Collaborate with aerodynamics and mechanical sub-teams to oversee the design and fabrication of the radio-controlled aircraft.</li>
-  </ul>
+
+<div class="item-header">
+
+<div class="role"><strong>Propulsion Sub-Team Member</strong></div>
+
+</div>
+
+<ul>
+
+<li>Identified battery, motor, and propeller specifications required to meet aircraft flight-time and payload requirements.</li>
+
+<li>Performed propeller static thrust testing to validate propulsion performance against target metrics.</li>
+
+<li>Designed, tested, integrated, soldered, and wired aircraft propulsion-system components.</li>
+
+<li>Collaborated with aerodynamics, structures, and manufacturing sub-teams throughout aircraft design, fabrication, and integration.</li>
+
+</ul>
+
 </div>
 
 ## LEADERSHIP AND COMMUNITY INVOLVEMENT

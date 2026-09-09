@@ -18,6 +18,30 @@ permalink: /cv/
 
 ## EXPERIENCE
 <div class="item">
+
+  <div class="item-header">
+
+<div class="left"><strong>Cornell University Sibley School of Mechanical and Aerospace Engineering, Ithaca, NY</strong></div>
+
+<div class="date">June 2026 – Present</div>
+
+  </div>
+
+  <div class="role"><strong>Instructional Laboratories Intern</strong></div>
+
+  <ul>
+
+<li>Designed and fabricated hardware for undergraduate system dynamics experiments, including CAD-designed and 3D-printed adapters integrating motors, tachometers, and potentiometers into rotating-system test setups.</li>
+
+<li>Built and integrated experimental instrumentation by soldering 200 BNC connectors, assembling custom DAQ hardware using NI USB-6001 systems, and wiring an additional laboratory test station.</li>
+
+<li>Supported development and maintenance of MAE 3260 experiments through PCB soldering, fabrication, troubleshooting, and iterative prototype testing.</li>
+
+  </ul>
+
+</div>
+
+<div class="item">
   <div class="item-header">
     <div class="left"><strong>Cornell Mechanical &amp; Aerospace Engineering, Magnus Ultralight Project</strong> </div>
     <div class="date">Jan 2025 – present</div>

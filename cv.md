@@ -87,6 +87,8 @@ permalink: /cv/
 
 <li>Performed propulsion analysis and validation using MATLAB, Python, eCalc, static thrust testing, wiring, and aircraft integration.</li>
 
+<li>Designed and built custom static thrust testing rig</li>
+
 </ul>
 
 </div>

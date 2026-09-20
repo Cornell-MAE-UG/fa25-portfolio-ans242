@@ -14,7 +14,6 @@ I joined the project in the summer of 2025 and contributed to building and testi
 
 The preliminary sizing was done mainly via a custom MATLAB script and a software called eCalc, and iterative improvements were made following test results. Working closely with the team, I also completed the landing gear design and fabrication, and custom manufactured pieces using a mill and lathe. These efforts helped the quadcopter achieve stable flight with a payload of 4 kilograms.
 
-I continue to work with the team during this academic year, with plans to conduct full-system test flights in the near future.
 
 <p align="center">
   <img src="{{ site.baseurl }}/assets/images/maggiefly.png" width="70%">

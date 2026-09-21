@@ -13,7 +13,7 @@ permalink: /cv/
     <div class="date">Expected Graduation May 2027</div>
   </div>
   <div class = "role">Sibley School of Mechanical and Aerospace Engineering<br></div>
-  Bachelor of Science in Mechanical Engineering <br>
+  Bachelor of Science in Mechanical Engineering May 2027, Masters of Engineering in Aerospace Engineering Dec 2027, <br>
 </div>
 
 ## EXPERIENCE
@@ -45,11 +45,11 @@ permalink: /cv/
 
 <div class="item-header">
 
-```
+
 \<div class="left">\<strong>Cornell University Sibley School of Mechanical and Aerospace Engineering, Ithaca, NY\</strong>\</div>
 
 \<div class="date">August 2026 – Present\</div>
-```
+
 
 </div>
 
@@ -57,11 +57,11 @@ permalink: /cv/
 
 <ul>
 
-```
+
 \<li>Hold office hours, lead discussion sections and laboratory activities, and answer student questions on fluid mechanics concepts and coursework.\</li>
 
 \<li>Review homework, quizzes, exams, and solutions for accuracy; assist with grading and course logistics.\</li>
-```
+
 
 </ul>
 
@@ -71,11 +71,11 @@ permalink: /cv/
 
 <div class="item-header">
 
-```
+
 \<div class="left">\<strong>Cornell University Sibley School of Mechanical and Aerospace Engineering, Ithaca, NY\</strong>\</div>
 
 \<div class="date">August 2026 – Present\</div>
-```
+
 
 </div>
 
@@ -83,11 +83,11 @@ permalink: /cv/
 
 <ul>
 
-```
+
 \<li>Grade and review homework, quizzes, and exams for accuracy, consistency, and adherence to course grading standards.\</li>
 
 \<li>Assist with course logistics and verify solution sets and grading materials for accuracy.\</li>
-```
+
 
 </ul>
 

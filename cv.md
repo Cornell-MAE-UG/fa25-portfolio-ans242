@@ -42,6 +42,59 @@ permalink: /cv/
 </div>
 
 <div class="item">
+
+<div class="item-header">
+
+```
+\<div class="left">\<strong>Cornell University Sibley School of Mechanical and Aerospace Engineering, Ithaca, NY\</strong>\</div>
+
+\<div class="date">August 2026 – Present\</div>
+```
+
+</div>
+
+<div class="role"><strong>Fluid Mechanics Teaching Assistant</strong></div>
+
+<ul>
+
+```
+\<li>Hold office hours, lead discussion sections and laboratory activities, and answer student questions on fluid mechanics concepts and coursework.\</li>
+
+\<li>Review homework, quizzes, exams, and solutions for accuracy; assist with grading and course logistics.\</li>
+```
+
+</ul>
+
+</div>
+
+<div class="item">
+
+<div class="item-header">
+
+```
+\<div class="left">\<strong>Cornell University Sibley School of Mechanical and Aerospace Engineering, Ithaca, NY\</strong>\</div>
+
+\<div class="date">August 2026 – Present\</div>
+```
+
+</div>
+
+<div class="role"><strong>Introduction to Aeronautics Grader</strong></div>
+
+<ul>
+
+```
+\<li>Grade and review homework, quizzes, and exams for accuracy, consistency, and adherence to course grading standards.\</li>
+
+\<li>Assist with course logistics and verify solution sets and grading materials for accuracy.\</li>
+```
+
+</ul>
+
+</div>
+
+
+<div class="item">
   <div class="item-header">
     <div class="left"><strong>Cornell Mechanical &amp; Aerospace Engineering, Magnus Ultralight Project</strong> </div>
     <div class="date">Jan 2025 – present</div>

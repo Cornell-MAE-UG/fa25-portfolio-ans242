@@ -169,7 +169,7 @@ permalink: /cv/
 </div>
 
 <div class="resume-download">
-    <a href="{{ site.baseurl }}/assets/files/Alex Shuey Resume Nov 2025.pdf" class="download-button" download>
+    <a href="{{ site.baseurl }}/assets/files/9:26 Alex Shuey Resume.pdf" class="download-button" download>
         Download Resume (PDF)
     </a>
 </div>

@@ -203,11 +203,11 @@ permalink: /cv/
     <li>Arduino</li>
     <li>National Instruments DAQ</li>
     <li>Load Cells & Experimental Instrumentation</li>
+    <li>Pilot Training</li>
     <li>eCalc</li>
     <li>Structured Problem Solving</li>
     <li>Technical Leadership & Team Collaboration</li>
     <li>Public Speaking & Tutoring</li>
-    <li>Pilot Training</li>
   </ul>
 </div>
 

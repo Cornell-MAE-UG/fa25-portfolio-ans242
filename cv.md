@@ -194,17 +194,20 @@ permalink: /cv/
 <div class="item">
   <div class="left"><strong>Skills</strong></div>
   <ul>
-    <li>CAD (Solidworks, Fusion 360)</li>
+    <li>CAD & Component Design (SOLIDWORKS, Autodesk Fusion 360)</li>
     <li>MATLAB</li>
-    <li>Soldering</li>
-    <li>Ecalc</li>
+    <li>Design for Manufacturing (DFM)</li>
+    <li>Prototyping & 3D Prototyping</li>
     <li>Machining (Mill, Lathe)</li>
+    <li>Soldering</li>
     <li>Arduino</li>
-    <li>Customer Service</li>
-    <li>Public Speaking</li>
-    <li>Aviation Trainee</li>
-    <li>Teamwork</li>
-    <li>Tutoring</li>
+    <li>National Instruments DAQ</li>
+    <li>Load Cells & Experimental Instrumentation</li>
+    <li>eCalc</li>
+    <li>Structured Problem Solving</li>
+    <li>Technical Leadership & Team Collaboration</li>
+    <li>Public Speaking & Tutoring</li>
+    <li>Pilot Training</li>
   </ul>
 </div>
 
@@ -212,9 +215,9 @@ permalink: /cv/
   <div class="left"><strong>Interests</strong></div>
   <ul>
     <li>Flying/Aviation</li>
-    <li>Space Exploration</li>
     <li>Electric Aircraft Development</li>
     <li>Sustainability</li>
+    <li>Space Exploration</li>
   </ul>
 </div>
 

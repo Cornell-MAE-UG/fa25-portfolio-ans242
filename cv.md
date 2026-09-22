@@ -163,6 +163,7 @@ permalink: /cv/
 </ul>
 
 </div>
+</div>
 
 ## LEADERSHIP & COMMUNITY INVOLVEMENT
 <div class="item">

@@ -164,7 +164,7 @@ permalink: /cv/
 
 </div>
 
-## LEADERSHIP AND COMMUNITY INVOLVEMENT
+## LEADERSHIP & COMMUNITY INVOLVEMENT
 <div class="item">
   <div class="item-header">
     <div class="left"><strong>Society of Women Engineers, Ithaca, NY</strong></div>

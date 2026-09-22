@@ -72,7 +72,6 @@ permalink: /cv/
 <div class="left"><strong>Cornell University Sibley School of Mechanical and Aerospace Engineering, Ithaca, NY</strong></div>
 
 <div class="date">August 2026 – Present</div>
-```
 
   </div>
 

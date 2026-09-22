@@ -13,7 +13,7 @@ permalink: /cv/
     <div class="date">Expected Graduation May 2027</div>
   </div>
   <div class = "role">Sibley School of Mechanical and Aerospace Engineering<br></div>
-  Bachelor of Science in Mechanical Engineering May 2027, Masters of Engineering in Aerospace Engineering Dec 2027, <br>
+  Bachelor of Science in Mechanical Engineering May 2027, Masters of Engineering in Aerospace Engineering Dec 2027 <br>
 </div>
 
 ## EXPERIENCE
@@ -39,57 +39,54 @@ permalink: /cv/
 
   </ul>
 
-</div>
-
 <div class="item">
 
-<div class="item-header">
+  <div class="item-header">
+
+<div class="left"><strong>Cornell University Sibley School of Mechanical and Aerospace Engineering, Ithaca, NY</strong></div>
+
+<div class="date">August 2026 – Present</div>
 
 
-\<div class="left">\<strong>Cornell University Sibley School of Mechanical and Aerospace Engineering, Ithaca, NY\</strong>\</div>
+  </div>
 
-\<div class="date">August 2026 – Present\</div>
+  <div class="role"><strong>Fluid Mechanics Teaching Assistant</strong></div>
 
-
-</div>
-
-<div class="role"><strong>Fluid Mechanics Teaching Assistant</strong></div>
-
-<ul>
+  <ul>
 
 
-\<li>Hold office hours, lead discussion sections and laboratory activities, and answer student questions on fluid mechanics concepts and coursework.\</li>
+<li>Hold office hours, lead discussion sections and laboratory activities, and answer student questions on fluid mechanics concepts and coursework.</li>
 
-\<li>Review homework, quizzes, exams, and solutions for accuracy; assist with grading and course logistics.\</li>
+<li>Review homework, quizzes, exams, and solutions for accuracy; assist with grading and course logistics.</li>
 
 
-</ul>
+  </ul>
 
 </div>
 
 <div class="item">
 
-<div class="item-header">
+  <div class="item-header">
 
 
-\<div class="left">\<strong>Cornell University Sibley School of Mechanical and Aerospace Engineering, Ithaca, NY\</strong>\</div>
+<div class="left"><strong>Cornell University Sibley School of Mechanical and Aerospace Engineering, Ithaca, NY</strong></div>
 
-\<div class="date">August 2026 – Present\</div>
+<div class="date">August 2026 – Present</div>
+```
 
+  </div>
 
-</div>
+  <div class="role"><strong>Introduction to Aeronautics Grader</strong></div>
 
-<div class="role"><strong>Introduction to Aeronautics Grader</strong></div>
-
-<ul>
-
-
-\<li>Grade and review homework, quizzes, and exams for accuracy, consistency, and adherence to course grading standards.\</li>
-
-\<li>Assist with course logistics and verify solution sets and grading materials for accuracy.\</li>
+  <ul>
 
 
-</ul>
+<li>Grade and review homework, quizzes, and exams for accuracy, consistency, and adherence to course grading standards.</li>
+
+<li>Assist with course logistics and verify solution sets and grading materials for accuracy.</li>
+
+
+  </ul>
 
 </div>
 

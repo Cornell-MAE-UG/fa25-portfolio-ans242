@@ -165,7 +165,7 @@ permalink: /cv/
 </div>
 </div>
 
-## LEADERSHIP & COMMUNITY INVOLVEMENT
+<h2>LEADERSHIP & COMMUNITY INVOLVEMENT</h2>
 <div class="item">
   <div class="item-header">
     <div class="left"><strong>Society of Women Engineers, Ithaca, NY</strong></div>
@@ -190,7 +190,7 @@ permalink: /cv/
   </ul>
 </div>
 
-## SKILLS & INTERESTS
+<h2>SKILLS & INTERESTS</h2>
 <div class="item">
   <div class="left"><strong>Skills</strong></div>
   <ul>
